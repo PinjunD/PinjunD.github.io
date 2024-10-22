@@ -1,30 +1,10 @@
 ---
 permalink: /
-title: "Academic Curriculum Vitae"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Education
-======
 
-**Mathematical Statistics**
-*Harbin Institute of Technology*
-*09/2018 - 06/2022*
-GPA: 89.12/100
-**Courses:**
-
-- Linear Algebra
-- Complex Analysis
-- Real Analysis
-- Numeric Approximation
-- Probability Theory
-- Functional Analysis
-- Partial Differential Equations
-- C++ Programming
-
-**Mathematics**
-*Zhejiang University*
-*09/2022 - 06/2025*
-**Courses:**
+I'm a graduate student in the Department of Mathematics at Zhejiang University. Prior to that, I obtain my bachelor degree in Mathematics from Harbin Institute of Technology in 2022 under the supervision of [Zhaoyan Li](https://homepage.hit.edu.cn/lizhaoyan)

@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Pinjun Dong"
 #  pronouns         : # example: "she/her"  
   bio              : "Graduate Student,<br>Department of Mathematics,<br>Zhejiang University "

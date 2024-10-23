@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Pinjun Dong"
 description              : &description "personal description"
 url                      : https://dpj_pd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url
+#url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 repository               : "Wa-hahahahahaha/dpj_pd.github.io"

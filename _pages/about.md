@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![](../images/profile.jpg)
+
 I'm a graduate student in the Department of Mathematics at Zhejiang University, supervised by [Wangtao Lu](https://person.zju.edu.cn/en/lwt). 
 
 I was a Research Assistant in the Dapartment of Applied Mathematics at The Hong Kong Polytechnic University, mentored by [Binyan Jiang](https://www.polyu.edu.hk/ama/people/academic-staff/dr-jiang-binyan/). Prior to that, I obtained my bachelor degree in Mathematics from Harbin Institute of Technology in 2022 under the supervision of [Zhaoyan Li](https://homepage.hit.edu.cn/lizhaoyan).

@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Pinjun Dong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Pinjun Dong"
 description              : &description "personal description"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

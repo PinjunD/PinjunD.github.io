@@ -10,10 +10,10 @@ redirect_from:
 
 ![](../images/profile.jpg)
 
-I'm a graduate student in the Department of Mathematics at Zhejiang University, supervised by [Wangtao Lu](https://person.zju.edu.cn/en/lwt). 
+I am a graduate student in the Department of Mathematics at Zhejiang University, under the supervision of [Wangtao Lu](https://person.zju.edu.cn/en/lwt). 
 
-I was a Research Assistant in the Dapartment of Applied Mathematics at The Hong Kong Polytechnic University, mentored by [Binyan Jiang](https://www.polyu.edu.hk/ama/people/academic-staff/dr-jiang-binyan/). Prior to that, I obtained my bachelor degree in Mathematics from Harbin Institute of Technology in 2022 under the supervision of [Zhaoyan Li](https://homepage.hit.edu.cn/lizhaoyan).
+Previously, I worked as a Research Assistant in the Department of Applied Mathematics at The Hong Kong Polytechnic University, under the mentorship of [Binyan Jiang](https://www.polyu.edu.hk/ama/people/academic-staff/dr-jiang-binyan/). Prior to that, I earned my bachelor's degree in Mathematics from Harbin Institute of Technology in 2022, where I was supervised by [Zhaoyan Li](https://homepage.hit.edu.cn/lizhaoyan).
 
-My research interests lie in mathematical statistics, specifically in network data analysis, proportion data analysis, and the theoretical aspects of neural networks. As a beginner in academic research, I enjoy learning any interesting and meaningful topic related to mathematics and its the applications from the industry. 
+My research interests focus on mathematical statistics, particularly in network data analysis, proportion data analysis, and the theoretical foundations of neural networks. As a newcomer to academic research, I am eager to explore any fascinating and impactful topics related to mathematics and its applications in industry.
 
 You can find my [CV](../files/CV.pdf) here.

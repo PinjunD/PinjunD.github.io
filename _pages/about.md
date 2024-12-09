@@ -16,4 +16,4 @@ I was a Research Assistant in the Dapartment of Applied Mathematics at The Hong 
 
 My research interests lie in mathematical statistics, specifically in network data analysis, proportion data analysis, and the theoretical aspects of neural networks. As a beginner in academic research, I enjoy learning any interesting and meaningful topic related to mathematics and its the applications from the industry. 
 
-You can find my [CV](../files/cv.pdf) here.
+You can find my [CV](../files/CV.pdf) here.
